@@ -61,7 +61,7 @@ body {
   }
   #line::before {
     color: #519975;
-    content: "visitor@fkcodes.com:~$";
+    content: "visitor@portfolio-tr:~$";
   }
   #line.password::before {
     content: "Password:";
