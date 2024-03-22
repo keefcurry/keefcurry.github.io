@@ -1,0 +1,143 @@
+{
+    "commands": [
+        {
+            "name":"help",
+            "description":"",
+            "style":"color2 margin",
+            "time":"80",
+            "value": [
+                "<br>",
+                "<span class=\"command\">about</span>          Who is Tyree?",
+                "<span class=\"command\">whoami</span>         Who are you?",
+                "<span class=\"command\">social</span>         Display social networks",
+                "<span class=\"command\">projects</span>       View coding projects",
+                "<span class=\"command\">history</span>        View command history",
+                "<span class=\"command\">help</span>           You obviously already know what this does",
+                "<span class=\"command\">email</span>          Do not email me",
+                "<span class=\"command\">clear</span>          Clear terminal",
+                "<span class=\"command\">banner</span>         Display the header",
+                "<br>"
+              ]
+        },
+        {
+            "name": "about",
+            "description":"",
+            "style":"color2 margin",
+            "time":"80",
+            "value": [
+                "<br>",
+                "Hey, I'm Tyree! 😁",
+                "a seasoned software engineer with a passion for crafting impactful solutions.",
+                "I currently hold a full-time position as a software engineer for 3+ years.",
+                "Over my 4 years in the tech industry, my expertise lies in C#, Java, JavaScript, Angular, DevOps..",
+                "and I devote a significant amount of my time to honing my skills",
+                "<br>",
+                "While my journey might not be dotted with many notable projects, my commitment to excellence",
+                "is evident in my extensive practice in game development. Whether I'm exploring new game.",
+                "mechanics, refining graphics, or optimizing performance, I relish the creative challenges that ",
+                "game development brings. In addition to my gaming pursuits, I delve into the fascinating realm of Neural Networks.",
+                "<br>",
+                "Beyond coding, I find balance in competitive gaming, drawing realistic and comic/anime images,",
+                "and mastering the Rubik's Cube. As Tyree Richardson, I bring a multifaceted approach to ",
+                "technology, combining a love for innovation with a commitment to continuous learning.",
+                "<br>",
+                "Looking forward to connecting with like-minded individuals who, like me, find inspiration at the",
+                "crossroads of technology, creativity, and continuous learning. Let's build something great ",
+                "together!",
+                "<br>"
+              ]
+        },
+        {
+            "name": "whoami",
+            "description":"",
+            "style":"color2 margin",
+            "time":"80",
+            "value":[
+                "<br>",
+                "The paradox of “Who am I?” is: we never know, but, we constantly find out.",
+                "<br>"
+              ]
+        },
+        {
+            "name": "social",
+            "description":"",
+            "style":"color2 margin",
+            "time":"80",
+            "value":[
+                "<br>",
+                "linkedin       <a href=\"https://www.linkedin.com/in/tyree-richardson-5b564118a/\" target=\"_blank\">linkedin/tyreerichardson</a>",
+                "github         <a href=\"https://github.com/keefcurry\" target=\"_blank\">github/tyreerichardson</a>",
+                "<br>"
+              ]
+        },
+        {
+            "name": "projects",
+            "description":"",
+            "style":"color2 margin",
+            "time":"80",
+            "value":[
+                "<br>",
+                "Still curating... most projects are offline, on GitHub, or confidential.",
+                "<br>"
+              ]
+        },
+        {
+            "name": "history",
+            "description":"",
+            "style":"color2",
+            "time":"80",
+            "value":""
+        },
+        {
+            "name": "email",
+            "description":"",
+            "value":"mailto:rtyree32@gmail.com"
+        },
+        {
+            "name": "clear",
+            "description":"",
+            "value":""
+        },
+        {
+            "name": "banner",
+            "description":"",
+            "style":"",
+            "time":"80",
+            "value":[
+                "<span class=\"index\">Tyree Richardson Portfolio. All developers welcome.</span>",
+                "    ,-.       _,---._ __  / \\",
+                "   \/  )    .-'       `./ /   \\",
+                "  (  (   ,'            `/    /|",
+                "   \\  `-\"             \\'\\   / |   ______                        ____  _      __                   __               ",
+                "    `.              ,  \\ \\ /  |  /_  __/_  __________  ___     / __ \\(_)____/ /_  ____ __________/ /________  ____ ",
+                "     /`.          ,'-`----Y   |   / / / / / / ___/ _ \\/ _ \\   / /_/ / / ___/ __ \\/ __ `/ ___/ __  / ___/ __ \\/ __ \\",
+                "    (            ;        |   '  / / / /_/ / /  /  __/  __/  / _, _/ / /__/ / / / /_/ / /  / /_/ (__  ) /_/ / / / /",
+                "    |  ,-.    ,-'         |  /  /_/  \\__, /_/   \\___/\\___/  /_/ |_/_/\\___/_/ /_/\\__,_/_/   \\__,_/____/\\____/_/ /_/ ",
+                "    |  | (   |            | /       /____/                                                                         ",
+                "    )  |  \\  `.___________|/",
+                "    `--'   `--'",
+                "####################################################################################################################",
+                "<span class=\"color2\">Welcome to my interactive web portfolio.</span>",
+                "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>"
+              ]
+        },
+        {
+            "name": "github",
+            "description":"",
+            "style":"color2",
+            "time":"",
+            "value": "https://github.com/keefcurry"
+        },
+        {
+            "name": "linkedin",
+            "description":"",
+            "style":"color2",
+            "time":"",
+            "value": "https://www.linkedin.com/in/tyree-richardson-5b564118a/"
+        },
+        {
+            "name": "reset",
+            "description":""
+        }
+    ]
+}
